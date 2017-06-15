@@ -1,6 +1,6 @@
 * {
   font-face: 'Montserrat', sans-serif;
-  font-size: 1.5em;
+  font-size: 4em;
 }
 
 body {
@@ -13,7 +13,7 @@ img {
   max-width: 100%;
   height: auto;
   width: 70%;
-  padding-left: 30%;
+  padding-left: 15%;
 }
 
 header {
@@ -21,6 +21,9 @@ header {
   color: #DC3522;
 }
 
+.randomize {
+  width: 6em;
+}
 
 /*colors:
 
