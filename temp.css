@@ -1,11 +1,8 @@
-* {
-  font-face: 'Montserrat', sans-serif;
-  font-size: 4em;
-}
-
 body {
-  background-color: #D9CB9E;
-  color: #1E1E20;
+  background-color: #2A2C2B;
+  color: #D9CB9E;
+  font-face: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 
 img {
@@ -16,13 +13,26 @@ img {
   padding-left: 15%;
 }
 
+h1 {
+
+}
+
 header {
-  background-color: #2A2C2B;
+  background-color: #374140;
   color: #DC3522;
 }
 
 .randomize {
-  width: 6em;
+  width: 6vw;
+}
+
+a {
+  text-decoration: none;
+  color: #DC3522;
+}
+
+a:hover{
+  color: #374140;
 }
 
 /*colors:
